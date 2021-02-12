@@ -1,2 +1,2 @@
 # JavaGururIntensive
-My home work on GavaGuru`s intensive couses
+My home work on JavaGuru`s intensive couses
