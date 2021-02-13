@@ -23,4 +23,5 @@ class CalculatorTest {
     void mul() {
         assertEquals(20,20 );
     }
+
 }

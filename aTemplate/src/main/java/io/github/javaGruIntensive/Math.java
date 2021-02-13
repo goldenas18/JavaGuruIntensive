@@ -9,4 +9,5 @@ public class Math {
         System.out.println(Calculator.div(20,10));
         System.out.println(Calculator.mul(20,10));
     }
+
 }
