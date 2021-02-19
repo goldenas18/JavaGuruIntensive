@@ -1,4 +1,4 @@
-package io.github.javaGruIntensive;
+package dgdgdg;
 
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package io.github.javaGruIntensive;
+package io.gihu.javaGuruIntensive.mathOperators;
 
 
 

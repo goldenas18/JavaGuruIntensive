@@ -1,4 +1,4 @@
-package io.github.javaGruIntensive;
+package io.gihu.javaGuruIntensive.mathOperators;
 
 
 public class Math {
@@ -9,4 +9,5 @@ public class Math {
         System.out.println(Calculator.div(20,10));
         System.out.println(Calculator.mul(20,10));
     }
+
 }
